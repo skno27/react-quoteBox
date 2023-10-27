@@ -71,7 +71,7 @@ body {
   flex-direction: row;
   justify-content: space-between;
   gap: 10px;
-  flex: 10;
+  flex: 5;
   margin-right: 20px;
 }
 
@@ -80,9 +80,38 @@ body {
 }
 
 .right {
-  flex: 2;
+  flex: 1;
   margin-left: 150px;
 }
-/* 
-.container {
-} */
+
+
+@media (max-width: 600px) {
+  /* CSS rules for screens with a maximum width of 600px or smaller go here */
+  body {
+    width: 500px;
+  }
+  #quote-box{
+    width: 400px;
+  }
+  .btn-row {
+    margin: 0px;
+  }
+  .left {
+    flex: 5;
+  }
+  .right {
+    flex: 0;
+  }
+  button {
+    width: 150px;
+    font-size: xx-small;
+    /* overflow: hidden; */
+    white-space: nowrap;
+  }
+  .right {
+    margin-left: 0px;
+  }
+  .btn-row {
+    gap: 10px;
+  }
+}

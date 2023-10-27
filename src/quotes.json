@@ -6,6 +6,11 @@
             "color": "rgb(22, 34, 36)"
         },
         {
+            "quote": "Life is like riding a bicycle. To keep your balance you must keep moving.",
+            "author": "Albert Einstein",
+            "color": "red"
+        },
+        {
             "quote": "Both in this world and in the Hereafter, I am the nearest of all the people to Jesus, the son of Mary. The prophets are paternal brothers; their mothers are different, but their religion is one.",
             "author": "Prophet Muhammad (s.a.w.)",
             "color": "rgb(44, 62, 80)"
@@ -15,6 +20,7 @@
             "author": "Jesus, Isa, bin Maryam (s.a.w.)",
             "color": "orange"
         }
+        
     ]
 
 }

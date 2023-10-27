@@ -45,6 +45,8 @@ function QuoteBox() {
       } else if (quotation === quotes["quotes"][1]) {
         setQuotation(quotes["quotes"][2]);
       } else if (quotation === quotes["quotes"][2]) {
+        setQuotation(quotes["quotes"][3]);
+      } else if (quotation === quotes["quotes"][3]) {
         setQuotation(quotes["quotes"][0]);
       }
     }

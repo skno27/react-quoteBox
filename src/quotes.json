@@ -1,0 +1,20 @@
+{
+    "quotes": [
+        {
+            "quote": "I believe that there will ultimately be a clash between the oppressed and those that do the oppressing. I believe that there will be a clash between those who want freedom, justice and equality for everyone and those who want to continue the systems of exploitation.",
+            "author": "Malcolm X",
+            "color": "rgb(22, 34, 36)"
+        },
+        {
+            "quote": "Both in this world and in the Hereafter, I am the nearest of all the people to Jesus, the son of Mary. The prophets are paternal brothers; their mothers are different, but their religion is one.",
+            "author": "Prophet Muhammad (s.a.w.)",
+            "color": "rgb(44, 62, 80)"
+        },
+        {
+            "quote": "Who will stand up with me for Allah?",
+            "author": "Jesus, Isa, bin Maryam (s.a.w.)",
+            "color": "orange"
+        }
+    ]
+
+}

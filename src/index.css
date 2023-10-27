@@ -88,10 +88,12 @@ body {
 @media (max-width: 600px) {
   /* CSS rules for screens with a maximum width of 600px or smaller go here */
   body {
-    width: 500px;
+    width: 450px;
   }
   #quote-box{
-    width: 400px;
+    width: 350px;
+    height: auto;
+    padding: 50px;
   }
   .btn-row {
     margin: 0px;
